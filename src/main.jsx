@@ -632,7 +632,7 @@ function OrderTable({
             <th>Status</th>
             <th>Plant</th>
             {!compact && <th>Actions</th>}
-          </tr>
+          </tr>``````~
         </thead>
 
         <tbody>
